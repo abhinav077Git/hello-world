@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning Mister Abhinav Pandey..Thanks for enabling automated code build and artifacts from amazon EC2 instance and using poll SCM enabled and deployed onto ansible </h1>
+   <h1> Thankyou, Happy Learning Mister Abhinav Pandey..Thanks for enabling automated code build and artifacts from amazon EC2 instance and using poll SCM enabled and deployed using CI/CD tool from jenkins onto ansible </h1>
 
   
 </form>
