@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning Mister Abhinav Pandey.. again second attempt..using poll SCM..and build and deploy artifact on docker host and automatically building it..abhi.. </h1>
+   <h1> Thankyou, Happy Learning Abhinav Pandey.. again second attempt..using poll SCM..and build and deploy artifact on docker host and automatically building it..abhi.. </h1>
 
   
 </form>
